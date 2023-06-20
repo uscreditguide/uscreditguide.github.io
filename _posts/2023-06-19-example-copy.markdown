@@ -1,6 +1,6 @@
 ---
 mlayout:     post
-title:      "这是标题"
+title:      "这是标题1"
 subtitle:   "这是个副标题"
 date:       2023-06-19 23:00:00
 author:     "作者甲乙丙"
